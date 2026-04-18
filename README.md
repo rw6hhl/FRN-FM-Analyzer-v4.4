@@ -1,3 +1,4 @@
+[FRN FM Analyzer v4.4.zip](https://github.com/user-attachments/files/26854669/FRN.FM.Analyzer.v4.4.zip)
 # FRN-FM-Analyzer-v4.4
 Назначение: Анализ и настройка ЧМ сигнала (девиация 3 кГц) в сети FRN (комната Test)
 FRN FM Analyzer v4.4
